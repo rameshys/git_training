@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 this is first commit
 this is feature1
+||||||| b35639a
+=======
+this is first commit
+this is feature2
+>>>>>>> f2
